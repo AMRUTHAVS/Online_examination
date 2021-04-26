@@ -1,1 +1,2 @@
 # Online_examination
+Online examination is a web application designed to help colleges to conduct online examination. It is developed using java and REST api. One college can register in this and conduct their online examination.The overall control of the application is handled by the admin students,teachers can register and take examinations.colleges can add examinations. All the students who has registered can attend the exam and admin can view the report of the same.
